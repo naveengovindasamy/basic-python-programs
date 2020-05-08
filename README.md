@@ -1,1 +1,1 @@
-# intro-to-basic-programs
+# intro-to-basic python-programs
